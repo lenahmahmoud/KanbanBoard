@@ -1,0 +1,15 @@
+@import "tailwindcss";
+.scroll-clean::-webkit-scrollbar {
+  width: 6px;
+}
+.scroll-clean::-webkit-scrollbar-track {
+  background: transparent;
+}
+.scroll-clean::-webkit-scrollbar-thumb {
+  background: #1c3a6e;
+  border-radius: 10px;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}

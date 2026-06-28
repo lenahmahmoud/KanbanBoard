@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "title": "vanilla ",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, minima?",
+      "priority": "high",
+      "date": "2026-06-04",
+      "status": "todo",
+      "id": "hlNmtl-g1Wc"
+    },
+    {
+      "title": "task three",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, minima?",
+      "priority": "low",
+      "date": "2026-06-22",
+      "status": "inprogress",
+      "id": "TmiZqVWTa8k"
+    },
+    {
+      "title": "task five ",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus, minima?",
+      "priority": "high",
+      "date": "2026-06-14",
+      "status": "done",
+      "id": "2q_qmtQAPj0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
